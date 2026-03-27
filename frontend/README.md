@@ -7,17 +7,17 @@ A modular node-based workflow builder with dynamic UI, variable parsing, and bac
 ## Preview
 
 <p align="center">
-  <img src="./assets/img1.png" width="45%" />
-  <img src="./assets/img2.png" width="45%" />
+  <img src="./assets/img_1.png" width="45%" />
+  <img src="./assets/img_2.png" width="45%" />
 </p>
 
 <p align="center">
-  <img src="./assets/img3.png" width="45%" />
-  <img src="./assets/img4.png" width="45%" />
+  <img src="./assets/img_3.png" width="45%" />
+  <img src="./assets/img_4.png" width="45%" />
 </p>
 
 <p align="center">
-  <img src="./assets/img5.png" width="60%" />
+  <img src="./assets/img_5.png" width="60%" />
 </p>
 
 ---
@@ -38,5 +38,3 @@ A modular node-based workflow builder with dynamic UI, variable parsing, and bac
 * Frontend: React (JavaScript)
 * Backend: FastAPI (Python)
 * API Server: Uvicorn
-
----
